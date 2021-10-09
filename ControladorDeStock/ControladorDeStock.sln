@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControladorDeStock", "ControladorDeStock\ControladorDeStock.csproj", "{A2CCFD1C-8405-4AAD-B5D0-ACA1F00324B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CCFD1C-8405-4AAD-B5D0-ACA1F00324B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CCFD1C-8405-4AAD-B5D0-ACA1F00324B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CCFD1C-8405-4AAD-B5D0-ACA1F00324B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CCFD1C-8405-4AAD-B5D0-ACA1F00324B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1C8F2F-69C3-4CBE-80FC-6FD36522EA9D}
+	EndGlobalSection
+EndGlobal

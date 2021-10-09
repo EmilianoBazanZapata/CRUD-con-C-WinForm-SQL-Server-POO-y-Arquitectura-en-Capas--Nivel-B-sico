@@ -1,0 +1,9 @@
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\bin\Debug\ControladorDeStock.exe.config
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\bin\Debug\ControladorDeStock.exe
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\bin\Debug\ControladorDeStock.pdb
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\obj\Debug\ControladorDeStock.csproj.AssemblyReference.cache
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\obj\Debug\ControladorDeStock.Properties.Resources.resources
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\obj\Debug\ControladorDeStock.csproj.GenerateResource.cache
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\obj\Debug\ControladorDeStock.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\obj\Debug\ControladorDeStock.exe
+C:\Users\Emiliano\Desktop\Aplicacion de Escritorio\CRUD-con-C-WinForm-SQL-Server-POO-y-Arquitectura-en-Capas--Nivel-B-sico\ControladorDeStock\ControladorDeStock\obj\Debug\ControladorDeStock.pdb
